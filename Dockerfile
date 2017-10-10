@@ -3,7 +3,7 @@
 
 FROM golang:1.9-alpine3.6
 MAINTAINER Anthony Rogliano <aroglian@cisco.com>
-LABEL Description="amtool docker image"
+LABEL Description="amtool cli docker image"
 
 WORKDIR /amtool
 
